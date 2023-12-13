@@ -1,0 +1,7 @@
+.terraform
+dev/terragrunt-cache
+dev/.terraform.lock.hcl
+prod/terragrunt-cache
+prod/.terraform.lock.hcl
+qa/terragrunt-cache
+qa/.terraform.lock.hcl
